@@ -1,10 +1,6 @@
 # Project Name: Sales Forecasting for Furniture Store
 
-The goal of this project is to develop a machine learning model to accurately forecast future sales
-for a furniture store based on historical data. The dataset includes various features such as order
-details, customer information, product categories, and sales performance. By analyzing these
-features, the model will predict future sales trends, which can help the store in inventory
-management, marketing strategies, and financial planning.
+The goal of this project is to develop a machine learning model to accurately forecast future sales for a furniture store based on historical data. The dataset includes various features such as order details, customer information, product categories, and sales performance. By analyzing these features, the model will predict future sales trends, which can help the store in inventory management, marketing strategies, and financial planning.
 
 # Dataset Description:
 
